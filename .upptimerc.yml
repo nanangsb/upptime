@@ -4,17 +4,20 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Quran Abu Sofiya
+    url: https://quran.abusofiya.com
+  - name: Zikir V1
+    url: https://zikir.org
+  - name: Zikir V2
+    url: https://v2.zikir.org
+  - name: Api Artikel Islami
+    url: https://api-artikel.abusofiya.com/api
+  - name: Api Artikel Islami V2
+    url: https://api-artikel2.abusofiya.com/api/news/source?code=MUSLIM
+  - name: Kajian.co
+    url: https://kajian.co
+  - name: Quran Site
+    url: https://quransite.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
