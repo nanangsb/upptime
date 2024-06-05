@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 96,
     "timeDay": 231,
-    "timeWeek": 96,
+    "timeWeek": 101,
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 404,
     "timeDay": 413,
-    "timeWeek": 404,
+    "timeWeek": 301,
     "timeMonth": 404,
     "timeYear": 404,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 190,
     "timeDay": 199,
-    "timeWeek": 190,
+    "timeWeek": 189,
     "timeMonth": 190,
     "timeYear": 190,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 179,
     "timeDay": 210,
-    "timeWeek": 179,
+    "timeWeek": 165,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 2738,
     "timeDay": 2278,
-    "timeWeek": 2738,
+    "timeWeek": 2604,
     "timeMonth": 2738,
     "timeYear": 2738,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 2060,
     "timeDay": 2108,
-    "timeWeek": 2060,
+    "timeWeek": 2081,
     "timeMonth": 2060,
     "timeYear": 2060,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 378,
     "timeDay": 404,
-    "timeWeek": 378,
+    "timeWeek": 315,
     "timeMonth": 378,
     "timeYear": 378,
     "dailyMinutesDown": {}
@@ -166,9 +166,9 @@
     "url": "https://infigur.com",
     "icon": "https://icons.duckduckgo.com/ip3/infigur.com.ico",
     "slug": "infigur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,7 +177,9 @@
     "timeWeek": 8796,
     "timeMonth": 8796,
     "timeYear": 8796,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-05": 0
+    }
   },
   {
     "name": "Tool Unity",
