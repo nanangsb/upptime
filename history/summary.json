@@ -112,10 +112,10 @@
     "url": "https://kajian.co",
     "icon": "https://icons.duckduckgo.com/ip3/kajian.co.ico",
     "slug": "kajian-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2109,
@@ -123,7 +123,9 @@
     "timeWeek": 2141,
     "timeMonth": 2109,
     "timeYear": 2109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-08": 1
+    }
   },
   {
     "name": "Quran Site",
@@ -168,12 +170,12 @@
     "slug": "infigur",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 9225,
-    "timeDay": 13236,
+    "timeDay": 2598,
     "timeWeek": 10003,
     "timeMonth": 9225,
     "timeYear": 9225,
