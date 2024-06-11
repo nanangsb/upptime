@@ -112,19 +112,19 @@
     "url": "https://kajian.co",
     "icon": "https://icons.duckduckgo.com/ip3/kajian.co.ico",
     "slug": "kajian-co",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2097,
-    "timeDay": 2421,
-    "timeWeek": 2140,
-    "timeMonth": 2097,
-    "timeYear": 2097,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 2330,
+    "timeDay": 4243,
+    "timeWeek": 2576,
+    "timeMonth": 2330,
+    "timeYear": 2330,
     "dailyMinutesDown": {
-      "2024-06-11": 2
+      "2024-06-11": 6
     }
   },
   {
