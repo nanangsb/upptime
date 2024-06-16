@@ -94,19 +94,19 @@
     "url": "https://api-artikel2.abusofiya.com/api/news/source?code=MUSLIM",
     "icon": "https://icons.duckduckgo.com/ip3/api-artikel2.abusofiya.com.ico",
     "slug": "api-artikel-islami-v2",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 3551,
-    "timeDay": 10022,
-    "timeWeek": 4834,
-    "timeMonth": 3551,
-    "timeYear": 3551,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 4496,
+    "timeDay": 13840,
+    "timeWeek": 6880,
+    "timeMonth": 4496,
+    "timeYear": 4496,
     "dailyMinutesDown": {
-      "2024-06-16": 9
+      "2024-06-16": 0
     }
   },
   {
