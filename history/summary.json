@@ -94,18 +94,20 @@
     "url": "https://api-artikel2.abusofiya.com/api/news/source?code=MUSLIM",
     "icon": "https://icons.duckduckgo.com/ip3/api-artikel2.abusofiya.com.ico",
     "slug": "api-artikel-islami-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5451,
-    "timeDay": 13783,
-    "timeWeek": 8507,
-    "timeMonth": 5451,
-    "timeYear": 5451,
-    "dailyMinutesDown": {}
+    "time": 6159,
+    "timeDay": 15220,
+    "timeWeek": 9705,
+    "timeMonth": 6159,
+    "timeYear": 6159,
+    "dailyMinutesDown": {
+      "2024-06-17": 0
+    }
   },
   {
     "name": "Kajian.co",
