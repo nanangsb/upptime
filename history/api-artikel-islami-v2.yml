@@ -1,7 +1,7 @@
 url: https://api-artikel2.abusofiya.com/api/news/source?code=MUSLIM
-status: down
-code: 504
-responseTime: 25323
-lastUpdated: 2024-06-18T04:40:58.049Z
+status: up
+code: 200
+responseTime: 23545
+lastUpdated: 2024-06-18T04:49:02.138Z
 startTime: 2024-05-29T04:50:24.799Z
 generator: Upptime <https://github.com/upptime/upptime>
