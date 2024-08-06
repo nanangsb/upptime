@@ -95,11 +95,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-artikel2.abusofiya.com.ico",
     "slug": "api-artikel-islami-v2",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 9774,
     "timeDay": 2362,
     "timeWeek": 2387,
@@ -181,9 +181,9 @@
     "url": "https://infigur.com",
     "icon": "https://icons.duckduckgo.com/ip3/infigur.com.ico",
     "slug": "infigur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -193,6 +193,7 @@
     "timeMonth": 5007,
     "timeYear": 5530,
     "dailyMinutesDown": {
+      "2024-08-06": 0,
       "2024-06-29": 48,
       "2024-06-07": 15
     }
