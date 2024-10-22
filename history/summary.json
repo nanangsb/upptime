@@ -24,10 +24,10 @@
     "url": "https://quran.abusofiya.com",
     "icon": "https://icons.duckduckgo.com/ip3/quran.abusofiya.com.ico",
     "slug": "quran-abu-sofiya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
@@ -35,16 +35,18 @@
     "timeWeek": 173,
     "timeMonth": 167,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 2
+    }
   },
   {
     "name": "Zikir V1",
     "url": "https://zikir.org",
     "icon": "https://icons.duckduckgo.com/ip3/zikir.org.ico",
     "slug": "zikir-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +55,9 @@
     "timeWeek": 1468,
     "timeMonth": 1339,
     "timeYear": 1102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "Zikir V2",
@@ -97,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-artikel2.abusofiya.com.ico",
     "slug": "api-artikel-islami-v2",
     "status": "up",
-    "uptime": "84.03%",
+    "uptime": "84.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.94%",
-    "uptimeYear": "84.03%",
+    "uptimeYear": "84.04%",
     "time": 8930,
     "timeDay": 2983,
     "timeWeek": 2619,
@@ -220,18 +224,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/infigur.com.ico",
     "slug": "infigur",
     "status": "down",
-    "uptime": "56.45%",
+    "uptime": "56.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "56.45%",
+    "uptimeYear": "56.39%",
     "time": 5204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 5204,
     "dailyMinutesDown": {
-      "2024-10-22": 54,
+      "2024-10-22": 266,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
