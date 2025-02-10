@@ -13,7 +13,7 @@
     "time": 108,
     "timeDay": 86,
     "timeWeek": 106,
-    "timeMonth": 127,
+    "timeMonth": 120,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2024-09-18": 24
@@ -53,7 +53,7 @@
     "time": 1156,
     "timeDay": 1434,
     "timeWeek": 1440,
-    "timeMonth": 1342,
+    "timeMonth": 1371,
     "timeYear": 1156,
     "dailyMinutesDown": {}
   },
@@ -99,15 +99,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-artikel2.abusofiya.com.ico",
     "slug": "api-artikel-islami-v2",
     "status": "up",
-    "uptime": "90.82%",
+    "uptime": "90.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "90.82%",
+    "uptimeYear": "90.83%",
     "time": 7022,
     "timeDay": 4867,
     "timeWeek": 4869,
-    "timeMonth": 3724,
+    "timeMonth": 3715,
     "timeYear": 7022,
     "dailyMinutesDown": {
       "2025-01-22": 24,
@@ -177,7 +177,7 @@
     "time": 2413,
     "timeDay": 2250,
     "timeWeek": 2096,
-    "timeMonth": 2901,
+    "timeMonth": 2925,
     "timeYear": 2413,
     "dailyMinutesDown": {
       "2025-01-23": 63,
@@ -202,7 +202,7 @@
     "time": 359,
     "timeDay": 222,
     "timeWeek": 344,
-    "timeMonth": 356,
+    "timeMonth": 357,
     "timeYear": 359,
     "dailyMinutesDown": {}
   },
@@ -220,7 +220,7 @@
     "time": 2302,
     "timeDay": 2372,
     "timeWeek": 2461,
-    "timeMonth": 2307,
+    "timeMonth": 2314,
     "timeYear": 2302,
     "dailyMinutesDown": {
       "2025-01-23": 73,
@@ -238,17 +238,17 @@
     "slug": "infigur",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "96.92%",
-    "uptimeWeek": "97.18%",
-    "uptimeMonth": "96.63%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "96.66%",
     "uptimeYear": "99.32%",
     "time": 1347,
-    "timeDay": 477,
+    "timeDay": 368,
     "timeWeek": 414,
-    "timeMonth": 530,
+    "timeMonth": 526,
     "timeYear": 1347,
     "dailyMinutesDown": {
-      "2025-02-09": 45,
+      "2025-02-09": 33,
       "2025-02-07": 35,
       "2025-02-06": 70,
       "2025-02-05": 37,
@@ -298,7 +298,8 @@
       "2024-12-14": 21,
       "2024-12-13": 50,
       "2024-12-12": 6,
-      "2024-12-11": 34
+      "2024-12-11": 34,
+      "2024-12-10": 31
     }
   },
   {
@@ -315,7 +316,7 @@
     "time": 2438,
     "timeDay": 2627,
     "timeWeek": 2583,
-    "timeMonth": 3364,
+    "timeMonth": 3387,
     "timeYear": 2438,
     "dailyMinutesDown": {
       "2025-01-23": 21,
