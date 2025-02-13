@@ -106,7 +106,7 @@
     "uptimeYear": "90.96%",
     "time": 6989,
     "timeDay": 3557,
-    "timeWeek": 3549,
+    "timeWeek": 3819,
     "timeMonth": 3728,
     "timeYear": 6989,
     "dailyMinutesDown": {
@@ -236,16 +236,16 @@
     "url": "https://infigur.com",
     "icon": "https://icons.duckduckgo.com/ip3/infigur.com.ico",
     "slug": "infigur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "94.82%",
+    "uptimeDay": "94.80%",
     "uptimeWeek": "97.68%",
     "uptimeMonth": "96.57%",
     "uptimeYear": "99.34%",
     "time": 1302,
     "timeDay": 567,
     "timeWeek": 383,
-    "timeMonth": 490,
+    "timeMonth": 492,
     "timeYear": 1302,
     "dailyMinutesDown": {
       "2025-02-13": 74,
@@ -294,7 +294,7 @@
       "2024-12-24": 18,
       "2024-12-23": 73,
       "2024-12-21": 44,
-      "2024-12-19": 36
+      "2024-12-19": 20
     }
   },
   {
