@@ -236,12 +236,12 @@
     "url": "https://infigur.com",
     "icon": "https://icons.duckduckgo.com/ip3/infigur.com.ico",
     "slug": "infigur",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "96.43%",
-    "uptimeWeek": "97.69%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "97.68%",
     "uptimeMonth": "96.53%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 1291,
     "timeDay": 125,
     "timeWeek": 366,
@@ -294,7 +294,7 @@
       "2024-12-25": 16,
       "2024-12-24": 18,
       "2024-12-23": 73,
-      "2024-12-21": 44
+      "2024-12-21": 28
     }
   },
   {
