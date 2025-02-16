@@ -98,10 +98,10 @@
     "url": "https://api-artikel2.abusofiya.com/api/news/source?code=MUSLIM",
     "icon": "https://icons.duckduckgo.com/ip3/api-artikel2.abusofiya.com.ico",
     "slug": "api-artikel-islami-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "91.04%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "91.04%",
     "time": 6985,
@@ -110,6 +110,7 @@
     "timeMonth": 4170,
     "timeYear": 6985,
     "dailyMinutesDown": {
+      "2025-02-16": 0,
       "2025-02-15": 19,
       "2025-01-22": 24,
       "2024-12-20": 167,
@@ -239,9 +240,9 @@
     "slug": "infigur",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "96.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "96.77%",
     "uptimeYear": "99.35%",
     "time": 1277,
     "timeDay": 444,
@@ -249,7 +250,6 @@
     "timeMonth": 460,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2025-02-16": 14,
       "2025-02-14": 34,
       "2025-02-13": 74,
       "2025-02-12": 73,
@@ -296,7 +296,7 @@
       "2024-12-25": 16,
       "2024-12-24": 18,
       "2024-12-23": 73,
-      "2024-12-21": 28
+      "2024-12-21": 44
     }
   },
   {
