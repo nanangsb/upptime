@@ -107,7 +107,7 @@
     "time": 6966,
     "timeDay": 3760,
     "timeWeek": 5872,
-    "timeMonth": 4496,
+    "timeMonth": 4531,
     "timeYear": 6966,
     "dailyMinutesDown": {
       "2025-02-16": 41,
@@ -240,15 +240,15 @@
     "url": "https://infigur.com",
     "icon": "https://icons.duckduckgo.com/ip3/infigur.com.ico",
     "slug": "infigur",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "94.98%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "96.19%",
     "uptimeWeek": "96.81%",
     "uptimeMonth": "96.54%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 1233,
-    "timeDay": 144,
-    "timeWeek": 257,
+    "timeDay": 136,
+    "timeWeek": 261,
     "timeMonth": 434,
     "timeYear": 1233,
     "dailyMinutesDown": {
@@ -298,8 +298,7 @@
       "2024-12-29": 22,
       "2024-12-28": 73,
       "2024-12-27": 43,
-      "2024-12-26": 18,
-      "2024-12-25": 16
+      "2024-12-26": 18
     }
   },
   {
