@@ -185,7 +185,7 @@
     "timeMonth": 19605,
     "timeYear": 2733,
     "dailyMinutesDown": {
-      "2025-04-05": 1120,
+      "2025-04-05": 1151,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -272,7 +272,7 @@
     "timeMonth": 20437,
     "timeYear": 2744,
     "dailyMinutesDown": {
-      "2025-04-05": 1120,
+      "2025-04-05": 1151,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
@@ -329,10 +329,10 @@
     "url": "https://infigur.com",
     "icon": "https://icons.duckduckgo.com/ip3/infigur.com.ico",
     "slug": "infigur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
-    "uptimeDay": "96.27%",
-    "uptimeWeek": "97.46%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "97.45%",
     "uptimeMonth": "92.91%",
     "uptimeYear": "99.01%",
     "time": 1016,
@@ -341,7 +341,7 @@
     "timeMonth": 430,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2025-04-05": 53,
+      "2025-04-05": 54,
       "2025-04-04": 47,
       "2025-04-03": 47,
       "2025-04-01": 44,
@@ -388,8 +388,7 @@
       "2025-02-07": 35,
       "2025-02-06": 70,
       "2025-02-05": 37,
-      "2025-02-04": 33,
-      "2025-02-03": 18
+      "2025-02-04": 33
     }
   },
   {
@@ -398,18 +397,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/toolunity.com.ico",
     "slug": "tool-unity",
     "status": "down",
-    "uptime": "86.47%",
+    "uptime": "86.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "86.47%",
+    "uptimeYear": "86.46%",
     "time": 2711,
     "timeDay": 0,
     "timeWeek": 19698,
     "timeMonth": 19722,
     "timeYear": 2711,
     "dailyMinutesDown": {
-      "2025-04-05": 1120,
+      "2025-04-05": 1151,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
